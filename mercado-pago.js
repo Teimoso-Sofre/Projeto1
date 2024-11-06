@@ -1,2 +1,3 @@
 const m="mercado Pago"
-console.log(m);
+const t="mercado Tempo"
+console.log(m,t);
